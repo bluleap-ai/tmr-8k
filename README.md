@@ -14,3 +14,6 @@ For example, when gamers enable RT, they can achieve “Counter-Strafe“ in VAL
 
 
 Refer : https://akkogear.eu/products/monsgeek-m1-v5-tmr-magnetic-keyboard?_pos=1&_fid=5360e7a66&_ss=c
+
+
+Hal reference : https://github.com/peppapighs/libhmk
